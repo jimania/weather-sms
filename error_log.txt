@@ -1,0 +1,6 @@
+Could not resolve host: asdasdapi.openweathermap.org
+#0 C:\wamp64\www\test\index.php(9): WeatherProvider->sendSMSWithWeatherInformationForThessaloniki()
+#1 {main}
+Could not resolve host: asdasdapi.openweathermap.org
+#0 C:\wamp64\www\test\index.php(9): WeatherProvider->sendSMSWithWeatherInformationForThessaloniki()
+#1 {main}
